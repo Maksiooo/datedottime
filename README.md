@@ -21,9 +21,9 @@ Package for showing date, time, etc.
 Example:
 
 ```js
-const datedottime = require('datedottime');
+const daydottime = require('daydottime');
 
-console.log(datedottime.time);
+console.log(daydottime.time);
 
 ```
 
@@ -32,9 +32,9 @@ console.log(datedottime.time);
 Example:
 
 ```js
-const datedottime = require('datedottime');
+const daydottime = require('daydottime');
 
-console.log(datedottime.date);
+console.log(daydottime.date);
 
 ```
 
@@ -43,9 +43,9 @@ console.log(datedottime.date);
 Example:
 
 ```js
-const datedottime = require('datedottime');
+const daydottime = require('daydottime');
 
-console.log(datedottime.datetime);
+console.log(daydottime.datetime);
 ```
 
 # Day of the week
@@ -53,9 +53,9 @@ console.log(datedottime.datetime);
 Example:
 
 ```js
-const datedottime = require('datedottime');
+const daydottime = require('daydottime');
 
-console.log(datedottime.day);
+console.log(daydottime.day);
 ```
 
 # Name of the month
@@ -63,9 +63,9 @@ console.log(datedottime.day);
 Example:
 
 ```js
-const datedottime = require('datedottime');
+const daydottime = require('daydottime');
 
-console.log(datedottime.month);
+console.log(daydottime.month);
 ```
 
 # Random Number
@@ -73,7 +73,7 @@ console.log(datedottime.month);
 Example:
 
 ```js
-const datedottime = require('datedottime');
+const daydottime = require('daydottime');
 
-console.log(datedottime.random);
+console.log(daydottime.random);
 ```

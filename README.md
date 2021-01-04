@@ -1,5 +1,9 @@
 <div align="center">
 <img src="logo.png"  width="546" height="256" alt="daydottime">
+  
+   <p>
+    <a href="https://nodei.co/npm/daydottime/"><img src="https://nodei.co/npm/daydottime.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+  </p>
   </div>
 
 # Day dot Time

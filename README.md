@@ -1,4 +1,4 @@
-# Date dot Time
+# Day dot Time
 
 Package for showing date, time, etc.
 

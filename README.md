@@ -15,7 +15,7 @@
   </p>
   </div>
 
-# Day dot Time
+# DayDotTime
 
 Package for showing date, time, etc.
 

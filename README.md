@@ -1,4 +1,4 @@
-<img src="logo.png">
+<img src="logo.png" style="width: 50%; height: 50%;">
 
 # Day dot Time
 

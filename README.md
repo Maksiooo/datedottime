@@ -14,6 +14,10 @@
     <a href="https://nodei.co/npm/daydottime/"><img src="https://nodei.co/npm/daydottime.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
   </div>
+  
+# Documentation
+
+<a href="http://daydottime.tk/">Click Here</a>
 
 # DayDotTime
 

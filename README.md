@@ -1,3 +1,5 @@
+<img src="logo.png">
+
 # Day dot Time
 
 Package for showing date, time, etc.

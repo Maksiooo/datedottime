@@ -1,4 +1,4 @@
-<div class="center">
+<div align="center">
 <img src="logo.png"  width="546" height="256" alt="daydottime">
   </div>
 

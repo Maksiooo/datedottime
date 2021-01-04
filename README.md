@@ -4,6 +4,7 @@
     <a href="https://www.npmjs.com/package/daydottime"><img src="https://img.shields.io/npm/v/daydottime.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/daydottime"><img src="https://img.shields.io/npm/dt/daydottime.svg?maxAge=3600" alt="NPM downloads" /></a>
     <a href="https://david-dm.org/Maksiooo/daydottime"><img src="https://img.shields.io/david/Maksiooo/daydottime.svg?maxAge=3600" alt="Dependencies" /></a>
+    ![GitHub top language](https://img.shields.io/github/languages/top/Maksiooo/daydottime)
     </p>
    <p>
     <a href="https://nodei.co/npm/daydottime/"><img src="https://nodei.co/npm/daydottime.png?downloads=true&stars=true" alt="npm installnfo" /></a>

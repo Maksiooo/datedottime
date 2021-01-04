@@ -3,7 +3,6 @@
   <p>
     <a href="https://www.npmjs.com/package/daydottime"><img src="https://img.shields.io/npm/v/daydottime.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/daydottime"><img src="https://img.shields.io/npm/dt/daydottime.svg?maxAge=3600" alt="NPM downloads" /></a>
-    <a href="https://github.com/Maksiooo/daydottime/actions"><img src="https://github.com/Maksiooo/daydottime/workflows/Testing/badge.svg" alt="Build status" /></a>
     <a href="https://david-dm.org/Maksiooo/daydottime"><img src="https://img.shields.io/david/Maksiooo/daydottime.svg?maxAge=3600" alt="Dependencies" /></a>
     </p>
    <p>

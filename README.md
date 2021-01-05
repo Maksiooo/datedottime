@@ -14,7 +14,7 @@
     <a href="https://nodei.co/npm/daydottime/"><img src="https://nodei.co/npm/daydottime.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
   </div>
-  
+
 # Documentation
 
 <a href="http://daydottime.tk/">Click Here</a>
@@ -36,6 +36,12 @@ Package for showing date, time, etc.
 - month
 
 - random
+
+- day_pl
+
+- month_pl
+
+- time_12
 
 # Time
 
@@ -97,4 +103,32 @@ Example:
 const daydottime = require('daydottime');
 
 console.log(daydottime.random);
+```
+
+# Languages & 12h time
+
+You can have month and days in polish.
+
+Examples:
+
+```js
+const daydottime = require('daydottime');
+
+console.log(daydottime.month_pl); //Actual Month name in polish
+```
+
+```js
+const daydottime = require('daydottime');
+
+console.log(daydottime.day_pl);  //Actual Day name in polish
+```
+
+### Actual 12h time
+
+Example:
+
+```js
+const daydottime = require('daydottime');
+
+console.log(daydottime.time_12);
 ```

@@ -1,4 +1,4 @@
-// Created by Maksiooos
+// Created by Maksiooo
 
 var now = new Date();
 

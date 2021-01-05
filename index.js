@@ -1,7 +1,4 @@
-// Created by Maksiooo
-// Last update: 20:00, 01.01.2021
-
-// Thanks for downloading this package :)
+// Created by Maksiooos
 
 var now = new Date();
 
@@ -30,9 +27,46 @@ Date.prototype.getMonthName = function() {
 };
 var month = now.getMonthName();
 
+//Polish version
+
+//Name of the month in polish
+var monthspl = ['Styczeń','Luty','Marzec','Kwiecień','Maj','Czerwiec','Lipiec','Sierpień','Wrzesień','Pażdziernik','Listopad','Grudzień'];
+Date.prototype.getMonthName = function() {
+    return monthspl[ this.getMonth() ];
+};
+var month_pl = now.getMonthName();
+
+//Name of the day in polish
+var dayspl = ['Niedziela','Poniedziałek','Wtorek','Środa','Czwartek','Piątek','Sobota'];
+Date.prototype.getDayName = function() {
+    return dayspl[ this.getDay() ];
+};
+var day_pl = now.getDayName();
+
+//12 hour clock
+var TwentyFourHour = now.getHours();
+var hour12 = now.getHours();
+var min12 = now.getMinutes();
+var sec12 = now.getSeconds();
+var mid = 'pm';
+if (min12 < 10) {
+  min12 = "0" + min12;
+}
+if (hour12 > 12) {
+  hour12 = hour12 - 12;
+}    
+if(hour12==0){ 
+  hour12=12;
+}
+if(TwentyFourHour < 12) {
+   mid = 'am';
+}
+
+var time_12 = hour12+':'+min12+':'+sec12 +' '+mid ;
+
 //Random Number
 var random = Math.floor(Math.random() * 100)
 
 module.exports = {
-    date, time, datetime, day, month, random
+    date, time, datetime, day, month, random, month_pl, day_pl, time_12
 };
